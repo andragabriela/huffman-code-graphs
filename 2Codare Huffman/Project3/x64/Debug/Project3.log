@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Andra Ursa\Desktop\grafuri\lab4\2Codare Huffman\Project3\Source.cpp(10,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Andra Ursa\Desktop\grafuri\lab4\2Codare Huffman\Project3\Source.cpp(58,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\Andra Ursa\Desktop\grafuri\lab4\2Codare Huffman\x64\Debug\Project3.exe
